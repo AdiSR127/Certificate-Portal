@@ -22,4 +22,4 @@
 
 
 [instagram]: https://www.instagram.com/adi_baba.exe/
-[linkedin]: linkedin.com/in/aditya-s-b29ab0120/
+[linkedin]: https://www.linkedin.com/in/aditya-s-b29ab0120/
