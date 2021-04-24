@@ -8,4 +8,4 @@ Instructions To set-up Portal:
 
 For Customization:
 1. To change the Certificate Change file ..\images\cer.png
-2. If you want to change the position of the name by changing var variable L1, L2, L3 and L4 in certificate.php 
+2. If you want to change the position of the name by changing var variable L0, L1, L2, L3 and L4 in certificate.php 
