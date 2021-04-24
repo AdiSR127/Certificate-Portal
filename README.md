@@ -7,5 +7,5 @@ Instructions To set-up Portal:
 3. Go to Localhost/admin.php. Login using default details(Username: adiusingh127@gmail.com & Password: adisingh127).
 
 For Customization:
->To change the Certificate Change file ..\images\cer.png
->If you want to change the position of the name by changing var variable in certificate.php 
+1. To change the Certificate Change file ..\images\cer.png
+2. If you want to change the position of the name by changing var variable L1, L2, L3 and L4 in certificate.php 
