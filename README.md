@@ -8,7 +8,7 @@
 3. Go to `localhost/admin.php` . Login using default details(Username: adiusingh127@gmail.com & Password: adisingh127).
 
 ### For Customization:
-* To change the Certificate Change file ..\images\cer.png
+* To change the Certificate Change file `..\images\cer.png` .
 * If you want to change the lines initalise new sentences in var variable L0, L1, L2, L3 and L4 in certificate.php 
 
 ### How to use the portal?
