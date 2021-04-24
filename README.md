@@ -1,7 +1,4 @@
 # Certificate-Portal
-### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ## This is a Online Certificate Portal Generator made in PHP & MySQL.
 
@@ -17,7 +14,9 @@
 ### How to use the portal?
 > Refer to this video: https://www.linkedin.com/posts/aditya-s-b29ab0120_php-mysql-javascript-ugcPost-6780910546913964032-_F5X
 
-
+### Connect with me:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
 
