@@ -1,6 +1,23 @@
-# Certificate-Portal
+# Certificate-Portal 📝
 
 ## This is a Online Certificate Portal Generator made in PHP & MySQL.
+### Features:
+* Admin Login 🧑‍💻
+![alt text](https://github.com/AdiSR127/Certificate-Portal/blob/master/demo/admin_login.PNG)
+
+* User Login 🧑‍💼
+![alt text](https://github.com/AdiSR127/Certificate-Portal/blob/master/demo/User_Login.PNG)
+
+* Certificate Issue Tracker 🖨️
+![alt text](https://github.com/AdiSR127/Certificate-Portal/blob/master/demo/Print%20track.PNG)
+
+* Feature rich dashboards 🕹️
+![alt text](https://github.com/AdiSR127/Certificate-Portal/blob/master/demo/Admin_Dash1.PNG)
+![alt text](https://github.com/AdiSR127/Certificate-Portal/blob/master/demo/User_dash.PNG)
+
+* Account Based Certificate Management ✔️
+![alt text](https://github.com/AdiSR127/Certificate-Portal/blob/master/demo/Admin_Dash2.PNG)
+
 
 ### Instructions To set-up Portal:
 1. Import the `..\db\part.sql` into your SQL database
