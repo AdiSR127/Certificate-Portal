@@ -9,7 +9,8 @@
 
 ### For Customization 🖊️:
 * To change the Certificate Change file `..\images\cer.png` .
-* If you want to change the lines initalise new sentences in var variable L0, L1, L2, L3 and L4 in certificate.php 
+* If you want to change the lines initalise new sentences in var variable L0, L1, L2, L3 and L4 in certificate.php.
+* For some advance customization(font, logic, etc) refer to [FPDF documentation](http://www.fpdf.org).
 
 ### Database Structure 💾:
 * **nprint**: It contain data of all the certificates with their name, post, event, last time printing time, print count, etc.
