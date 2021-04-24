@@ -11,5 +11,4 @@ For Customization:
 2. If you want to change the lines initalise new sentences in var variable L0, L1, L2, L3 and L4 in certificate.php 
 
 How to use the portal?
-> Refer to this video: 
-> ![Demo](https://www.linkedin.com/posts/aditya-s-b29ab0120_php-mysql-javascript-ugcPost-6780910546913964032-_F5X)
+> Refer to this video: https://www.linkedin.com/posts/aditya-s-b29ab0120_php-mysql-javascript-ugcPost-6780910546913964032-_F5X
