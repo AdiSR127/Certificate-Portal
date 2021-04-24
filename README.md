@@ -2,7 +2,7 @@
 This is Online Certificate Portal Generator made in PHP & MySQL.
 
 Instructions To set-up Portal:
-1. import the ..\db\part.sql into your SQL database
+1. Import the ..\db\part.sql into your SQL database
 2. Start the Apache Server.
 3. Go to Localhost/admin.php. Login using default details(Username: adiusngh127@gmail.com & Password: adisingh127).
 
