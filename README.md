@@ -13,7 +13,7 @@
 
 ### Database Structure 💾:
 * **nprint**: It contain data of all the certificates with their name, post, event, last time printing time, print count, etc.
-* **admin**: It contain the admin login details. __Password is encrypted with MD5.__ 
+* **admin**: It contain the admin login details. Password is encrypted with MD5. 
 
 ### How to use the portal? 🤔
 > Refer to this video: [Video](https://www.linkedin.com/posts/aditya-s-b29ab0120_php-mysql-javascript-ugcPost-6780910546913964032-_F5X)
