@@ -1,0 +1,68 @@
+	.hero-image {
+  background-image: url();
+  background-color: #f7ffe6; ;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  height: 100%;
+}
+	
+	@media (min-width: 991px){
+	.container-fluid{
+	  width: 80%;
+	  margin-left: auto;
+	}}
+	 .all-browsers {
+  margin: 0;
+  padding: 5px;
+  background-color: lightgray;
+}
+
+.all-browsers > h1, .browser {
+  margin: 10px;
+  padding: 5px;
+}
+
+.browser {
+  background: white;
+}
+
+.browser > h2, p {
+  margin: 4px;
+  font-size: 90%;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding: 3px;
+  background-color: #e4f834;
+}
+footer a:hover {
+    text-decoration: none;
+}
+
+.nounderline:hover{
+    text-decoration: none;
+}
+
+.full-modal {
+  padding: 0 !important; 
+}
+.full-modal .full-modal-dialog {
+  width: 100%;
+  max-width: none;
+  height: 100%;
+  margin: 0;
+}
+.full-modal .full-modal-content {
+  height: 100%;
+  border: 0;
+  border-radius: 0;
+}
+.full-modal .full-modal-body {
+  overflow-y: auto;
+}

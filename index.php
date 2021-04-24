@@ -10,15 +10,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>CSI Skill Hunt Certificate Portal</title>
+	<title>Certificate Portal</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
-	<link rel="icon" type="image/png" href="images/icons/favicon.png"/>
+	<link rel="icon" type="image/png" href="images/LC logo small.png"/>
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="fonts/fontawesome-5.15.2/css/all.css">
 <!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
 <!--===============================================================================================-->	
@@ -36,29 +36,15 @@
 	<div class="limiter">
 		<div class="container-login100">
 			<div class="wrap-login100">
-			
-				<div class="login100-pic js-tilt" data-tilt>
-					<img src="images/img-01.png" alt="IMG">
-				</div>
 
-				<form class="login100-form validate-form" action="validate.php" method="POST">
+				<form class="login100-form validate-form" action="dashboard.php" method="POST">
 					<div class="login100-form-image">
-					<img src="images/CSI Logo.png" alt="IMG" width="320px" height="120px" >
+					<img src="images/LC logo mid.png" alt="IMG" width="200px" height="100px" >
 					
 				   </div>
-					<span class="login100-form-title">
+					<span class="login100-form-title mb-2">
 						Certificate Generator
-						<p style="color: blue; font-size:10px;">NOTE: Certificate Will Be Generated Only Once So Remember To Save it.
-			                      Enter a valid Email ID and Your Proper Name which Has To Be Printed On Certificate.
-								  </p>
 					</span>
-                    <div class="wrap-input100 validate-input" data-validate = "Name is required">
-						<input class="input100" type="text" name="name" placeholder="Name">
-						<span class="focus-input100"></span>
-						<span class="symbol-input100">
-							<i class="fa fa-user" aria-hidden="true"></i>
-						</span>
-					</div>
 					<div class="wrap-input100 validate-input" data-validate = "Valid email is required: ex@abc.xyz">
 						<input class="input100" type="text" name="email" placeholder="Email" >
 						<span class="focus-input100"></span>
@@ -77,12 +63,12 @@
 						
 						
                    </tr>
-					<div style="color: red">
+					<div style="color: red" class="mt-2">
 						<div  align="center"><?php echo $error ?></div>
 				    </div>
 					
 					<div class="text-center p-t-136">
-						<a class="txt2" href="javascript:alert('Give us a call or Drop a Message on Whatsapp At: +918941847380');">
+						<a class="txt2" href="https://api.whatsapp.com/send/?phone=%2B918941847380&text=Hi There! I am facing an issue with the LC Certificate Generation Portal. Kindly help me out!">
 							Facing Any Problem?
 							<i class="fa fa-long-arrow-right m-l-5" aria-hidden="true"></i>
 						</a>
@@ -95,10 +81,10 @@
 	
 	
 <!--===============================================================================================-->	
-	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
-<!--===============================================================================================-->
-	<script src="vendor/bootstrap/js/popper.js"></script>
-	<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
 <!--===============================================================================================-->
 	<script src="vendor/select2/select2.min.js"></script>
 <!--===============================================================================================-->
