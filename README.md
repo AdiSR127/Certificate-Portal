@@ -15,24 +15,24 @@
 > Refer to this video: [Video](https://www.linkedin.com/posts/aditya-s-b29ab0120_php-mysql-javascript-ugcPost-6780910546913964032-_F5X)
 
 ### Features:
-* Admin Login 🧑‍💻
+* **Admin Login 🧑‍💻**
 
 ![alt text](https://github.com/AdiSR127/Certificate-Portal/blob/master/demo/admin_login.PNG)
 
-* User Login 🧑‍💼
+* **User Login 🧑‍💼**
 
 ![alt text](https://github.com/AdiSR127/Certificate-Portal/blob/master/demo/User_Login.PNG)
 
-* Certificate Issue Tracker 🖨️
+* **Certificate Issue Tracker 🖨️**
 
 ![alt text](https://github.com/AdiSR127/Certificate-Portal/blob/master/demo/Print%20track.PNG)
 
-* Feature rich dashboards 🕹️
+* **Feature Rich dashboards 🕹️**
 
 ![alt text](https://github.com/AdiSR127/Certificate-Portal/blob/master/demo/Admin_Dash1.PNG)
 ![alt text](https://github.com/AdiSR127/Certificate-Portal/blob/master/demo/User_dash.PNG)
 
-* Account Based Certificate Management ✔️
+* **Account Based Certificate Management ✔️**
 
 ![alt text](https://github.com/AdiSR127/Certificate-Portal/blob/master/demo/Admin_dash2.PNG)
 
