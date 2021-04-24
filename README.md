@@ -11,6 +11,10 @@
 * To change the Certificate Change file `..\images\cer.png` .
 * If you want to change the lines initalise new sentences in var variable L0, L1, L2, L3 and L4 in certificate.php 
 
+### Database Structure:
+**nprint**: It contain data of all the certificates with their name, post, event, last time printing time, print count, etc.
+**admin**: It contain the admin login details. __Password is encrypted with MD5.__ 
+
 ### How to use the portal?
 > Refer to this video: [Video](https://www.linkedin.com/posts/aditya-s-b29ab0120_php-mysql-javascript-ugcPost-6780910546913964032-_F5X)
 
