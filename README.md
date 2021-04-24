@@ -1,5 +1,5 @@
 # Certificate-Portal
-This is Online Certificate Portal Generator made in PHP & MySQL.
+This is a Online Certificate Portal Generator made in PHP & MySQL.
 
 Instructions To set-up Portal:
 1. Import the ..\db\part.sql into your SQL database
