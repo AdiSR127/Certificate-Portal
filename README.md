@@ -27,7 +27,7 @@
 
 ![alt text](https://github.com/AdiSR127/Certificate-Portal/blob/master/demo/Print%20track.PNG)
 
-* **Feature Rich dashboards 🕹️**
+* **Feature Rich Dashboards 🕹️**
 
 ![alt text](https://github.com/AdiSR127/Certificate-Portal/blob/master/demo/Admin_Dash1.PNG)
 ![alt text](https://github.com/AdiSR127/Certificate-Portal/blob/master/demo/User_dash.PNG)
