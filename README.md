@@ -1,4 +1,4 @@
-# Certificate-Portal 📝
+# Certificate-Portal By Aditya Singh 📝
 
 ## This is an Online Certificate Generation Portal made in PHP & MySQL.
 
