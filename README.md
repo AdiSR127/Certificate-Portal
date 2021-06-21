@@ -49,5 +49,5 @@
 
 
 
-[instagram]: https://www.instagram.com/adi_baba.exe/
+[instagram]: https://www.instagram.com/_adi_baba/
 [linkedin]: https://www.linkedin.com/in/aditya-s-b29ab0120/
